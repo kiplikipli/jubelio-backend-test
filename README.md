@@ -7,7 +7,7 @@ It will run locally on
 Make sure you already run `init.sql` on your PostgreSQL Database.
 
 List all availables endpoints will be published in this link:
-`https://documenter.getpostman.com/view/9816560/2s93sdXWVQ`
+[Postman](https://documenter.getpostman.com/view/9816560/2s93sdXWVQ)
 
 Also there's some environment variables that you need to set, it's all listed in `.env.example` file
 
